@@ -1,0 +1,19 @@
+.productgrid {
+    display: grid;
+    background-color: #FFCFB3;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding:20px;
+    text-align: center;
+}
+p{
+    color: black;
+}
+.kafel{
+    border-radius: 1px;
+    background-color: #E78F81;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
